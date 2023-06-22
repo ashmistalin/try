@@ -1,6 +1,201 @@
-# try
+## SOmething:
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FoodKa.com</title>
+        <link rel="stylesheet" href="foodka style.css">
+        <script src="https://kit.fontawesome.com/073c2a9f35.js" crossorigin="anonymous"></script>        </head>
+    <body>
+        <div id="header">
+            <div class="container">
+                <nav>
+                    <img src="C:\Users\Dell\Desktop\Portfolio\images\logo replica.png" class="logo">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About </a></li>
+                        <li><a href="#">Catalog</a></li>
+                    </ul>
+                    <button class="button1" type="menu">Order Now</button>
+                </nav>
+            </div>
+        </div>
 
-## Index.html:
+
+
+
+
+
+        <div id="quality">
+            <div class="container">
+                <div class="second">
+             <div class="text">
+                    <h1 class="subtitle">Quality food Delivered!</h1>
+                    <pre> </pre>
+                    <p>The food quality at this restaurant is second to none. Our chefs use only the freshest </p><pre> </pre><p>ingredients to create culinary masterpieces in a variety of cuisines. Our menu offers </p><pre> </pre><p>something for everyone, from classic favorites to innovative takes on well-loved dishes.</p><pre> </pre><p> We are committed to providing our guests with the highest quality food to ensure that</p><pre> </pre><p> every visit is a delicious experience.</p>
+                    <button class="button2" type="menu">
+                        Get Started
+                    </button>
+                </div>
+                    <div class="imagee">
+                    <img src="C:\Users\Dell\Desktop\Portfolio\images\burger-removebg-preview (1).png">
+                </div>
+            </div>
+            </div>
+            </div>
+
+
+
+
+
+            <div id="circles">
+                <div class="circle"></div>
+                <div class="circle"></div>
+                <div class="circle"></div>
+              </div>
+              <div id="circles1">
+                <div class="circle1"></div>
+                <div class="circle1"></div>
+                <div class="circle1"></div>
+              </div>
+              <div id="circles2">
+                <div class="circle2"></div>
+                <div class="circle2"></div>
+                <div class="circle2"></div>
+              </div>
+              <div id="circles3">
+                <div class="circle3"></div>
+                <div class="circle3"></div>
+                <div class="circle3"></div>
+              </div>
+
+
+
+
+
+
+        <div id="traditional">
+            <div class="container">
+                <div class="third">
+                    <div class="image1">
+                        <img src="C:\Users\Dell\Desktop\Portfolio\images\dosadosa.webp">
+                    </div>
+                    <div class="text1">
+                        <h1 class="subtitle1">Traditional</br> Vegetarian Food</h1>
+                        <pre> </pre>
+                        <p>Vegetarian food is good for health and that's what we provide </p><pre> </pre><p>here in <span>FoodKa,</span>as we focus on customers health before</p><pre> </pre><p>money reacges the table.</p>
+                        <button class="button3">
+                                                        Order Veg food
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+        <div id="testimonial">
+            <div class="container">
+                <div class="four">
+                <h1 class="head3">Our Happy Customers</h1>
+            </div>
+            </div>
+        </div>
+
+
+
+
+        <div id="test">
+            <div class="container">
+                <div class="five">
+                    <div class="image3">
+                        <img src="C:\Users\Dell\Desktop\Portfolio\images\buga.png">
+                    </div>
+                    <div class="block">
+                    </div>
+                    <div class="testimonials overlay">
+                        <div>
+                            <i class="fa-solid fa-user"></i>
+                           <h2>Andrew Banks</h2>
+                            <p>"I don't always clop, but when I do, it's</p><pre></pre><p> because of the food. Wow what a great food has just </p><pre></pre><p>not let me leave the store until now for this </p><pre></pre><p> very minute!"</p>
+                        </div>
+                        </div>
+                        <div class="testimonials1 overlay1">
+                            <div>
+                                <i class="fa-solid fa-user"></i>
+                               <h2>John Morrisons</h2>
+                                <p> "This food here is one for the human to eat but when I do, </p><pre></pre><p>it's because of food. Wow what great food has just not let</p><pre></pre><p> me leave the store until now for this very minute!"</p>
+                            </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+<div id="footer">
+    <div class="container">
+        <div class="one1">
+        <div class="text2">
+<h2><span>Food</span>Ka</h2>
+<p>The best food for the </p><pre></pre><p>right person</p>
+</div>
+<div class="two"><h4>About us</h4>
+<p>We are just that food shop that</p><pre></pre><p></p><p> everyone has been waiting</p>
+</div>
+    </div>
+    <div class="two2">
+        <div class="text0">
+            <h4>Information</h4>
+            <a href="">About Us</a>
+        </br>
+            <a href="">More Research</a>
+        </br>
+            <a href="">Food Recepies</a>
+        </br>
+            <a href="">Our Chef</a>
+
+    </div>
+</div>
+<div class="three3">
+    <div class="text01">
+        <h4>More links</h4>
+        <a href="">Gallery</a>
+        <a href="">Inside our shop</a>
+        <a href="">Behind the scenes</a>
+        <a href="">Pricing</a>
+</div>
+</div>
+<div class="news">
+    <div class="text02">
+        <h4>Subscribe to our</br>newsletter</h4>
+        <form>
+            <input type="email" name="E-Mail" placeholder="  Email address" required>
+        </form>
+    </div>
+</div>
+<div class="but1">
+    <div class="text03">
+        <button type="submit">Submit</button>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>            
+    </body>
+</html>
+```
 ```
 *{
     margin: 0;
@@ -8,144 +203,118 @@
     font-family: 'Noto-serif',serif;
     box-sizing: border-box;
 }
-html{
-    scroll-behavior: smooth ;
-}
 body{
-    background: black;
-    color: aliceblue;
-}
-#header{
-    width:100%;
-    height: 100vh;
-    background-image: url(images/background13.png);
-    background-size:cover;
-    background-position: center;
+    background:#F6E6CF;
 }
 .container{
-    padding: 10px 50px;
+    padding: 0px 0px;
 }
 nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content:left;
     flex-wrap: wrap;
 }
-
 .logo{
     width: 150px;
-    height: 100px;
+    height: 150px;
+    margin-right: 70px;
+    margin-left: 40px;
 }
 nav ul li{
     display:inline-block;
     list-style: none;
-    margin-top: 1px;
-    margin-left: 20px;
+    margin-top: 0px;
+    margin-left: 50px;
 }
 nav ul li a{
-    color: white;
+    color: rgb(50, 50, 50);
     text-decoration: none;
-    font-size: 15px;
-    position: relative;
+    font-size: 16px;
+    font-family:'Poppins',sans-serif ;
 }
-nav ul li a::after{
-content: ' ';
-width: 0%;
-height: 3px;
-background: lightcoral;
-position: absolute;
-left: 0;
-bottom: -6px;
-transition: 0.5s;
+.button1{
+    background-color: #F6E6CF;
+	color: rgb(50, 50, 50);
+    margin-left: 460px;
+	border: 2px solid #FFBD59;
+	padding: 10px 35px;
+	border-radius: 30px;
+	line-height: 1.5;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 16px;
+    font-family:'Poppins',sans-serif ;
+	display: inline-block;
+	transition: all 0.5s ease;
 }
-nav ul li a:hover::after{
-    width: 100%;
-}
-.header-text{
-    margin-top: 100px;
-    font-size: 19px;
-}
-.header-text h1{
-    font-size: 50px;
-}
-.header-text h1 span{
-    color:lightcoral;
+.button1:hover{
+	background-color: rgb(50, 50, 50);
+    border-color:#FFBD59;
+	color: white;
 }
 
-
-
-
-
-
-#about{
-    padding: 50px 0px;
-    color: white;
+#quality{
+    padding: 0px 0px;
 }
-.row{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
+.second{
 
-.about-column1{
-    flex-basis: 35%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
 }
-.about-column1 img{
-    border-radius: 15px;
-}
-.about-column2{
+.text{
+    
     flex-basis: 60%;
 }
 .subtitle{
-font-size: 50px;
-font-weight: 600;
-color: lightcoral;
-font-family: 'Poppins',sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    color: black;
+    font-family: 'Archivo Black', sans-serif;
+    margin-left: 40px;
+    margin-top: -20px;
 }
-.about-column2 p{
-    margin-top: 20px;
-    font-size: 18px;
-    font-family: 'Libre Baskerville', serif;
-}
-
-.tab{
-    display: flex;
-    margin: 20px 0 40px;
-}
-.tab-links{
-    margin-right: 50px;
+.text p{
     font-size: 20px;
-    font-weight: 400px;
-    cursor: pointer;
-    position: relative;
+margin-left: 40px;}
+.button2{
+    background-color: #e68f0c;
+	color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+	border: 2px solid  #e68f0c ;
+	padding: 10px 35px;
+	border-radius: 30px;
+	line-height: 1.5;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 13px;
+    font-family:'Poppins',sans-serif ;
+	display: inline-block;
+	transition: all 0.5s ease;
+    animation: glowing 2s infinite;
 
 }
-.tab-links::after{
-    content: '';
-    width: 0;
-    height: 3px;
-    background: lightcoral;
-    position: absolute;
-    left: 0;
-    bottom: -8px;
-    transition: 0.5s;
+@keyframes glowing {
+    0% {
+      box-shadow: 2px 2px 9px #e68f0c;
+    }
+    50% {
+      box-shadow: 2px 2px 9px #e68f0c;
+    }
+    100% {
+      box-shadow: 2px 2px 9px #e68f0c;
+    }
+  }
+.imagee{
+    flex-basis: 5%;
 }
-.tab-links.active-link::after{
-    width: 50%;
-}
-.tab-contents ul li{
-    list-style: none;
-    margin: 20px 0px;
-}
-.tab-contents ul li span{
-color:lightcoral;
-font-size: 16px;
-}
-.tab-contents{
-    display: none;
-}
-.tab-contents.active-tab{
-    display: block;
+.imagee img{
+    width: 500px;
+    height: 500px;
+margin-left: 0px;
 }
 
 
@@ -153,202 +322,319 @@ font-size: 16px;
 
 
 
+#circles {
+    display: flex;
+    justify-content: right;
+    margin-top: -90px;
+  }
+  
+  .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FFBD59;
+    margin: 10px 10px;
+  }
+  #circles1 {
+    display: flex;
+    justify-content: right;
+  }
+  
+  .circle1 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FFBD59;
+    margin: 10px 10px;
+  }
+  #circles2 {
+    display: flex;
+    justify-content: right;
+  }
+  
+  .circle2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FFBD59;
+    margin: 10px 10px;
+  }
 
-#services{
-    padding: 30px 0;
+  #circles3 {
+    display: flex;
+    justify-content: right;
+  }
+  
+  .circle3 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FFBD59;
+    margin: 10px 10px;
+  }
+
+
+
+
+
+
+
+#traditional{
+    padding: 0px 0px;
 }
-.services-list{
+.third{
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.image1{
+    flex-basis: 35%;
+}
+.image1 img{
+    margin-top: -40px;
+    width: 500px;
+}
+.text1{
+    flex-basis: 60%;
+
+}
+.subtitle1{
+    margin-top: -40px;
+    margin-left: 60px;
+    font-size: 80px;
+font-weight: 600;
+color: black;
+font-family: 'Noto Serif Hebrew', serif;
+}
+.text1 p{
+    font-size: 20px;
+    margin-left: 60px;
+}
+.text1 p span{
+    color: #e68f0c;
+}
+.button3{
+    background-color:rgb(50, 50, 50);
+	color: #e68f0c;
+    border: 4px solid rgb(50, 50, 50);
+    margin-top: 20px;
+    margin-left: 60px;
+	padding: 10px 35px;
+    line-height: 1.5;
+ 	cursor: pointer;
+	text-decoration: none;
+	font-size: 13px;
+    font-family:'Poppins',sans-serif ;
+	display: inline-block;
+	transition: all 0.5s ease;
+
+}
+
+#testimonial
+{
+    padding: 20px 0;
+}
+.four{
+    justify-content: center;
+}
+.head3{
+    justify-content: center;
+    margin-left: 35%;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+
+#test{
+    padding: 0px 0px;
+}
+.five{
+    display: flex;
+}
+.image3{
+flex-basis: 35%;
+}
+.image3 img{
+    width: 600px;
+    height: 600px;
+}
+
+.block{
+    width: 600px;
+    height: 400px;
+    background-color: #FFBD59;
+position: absolute;
+right: 0;
+margin-top: 5%;
+}
+.testimonials{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
     grid-gap: 40px;
     margin-top: 50px;
 }
-.services-list div{
-    background: #262626;
+.testimonials div{
+    background:white;
+    font-size: 15px;
     padding: 30px;
-    font-size: 14px;
     font-weight: 300px;
-    border-radius: 20px;
-    transition: background 0.5s, transform 0.5s;
+    width: 400px;
+    height:210px;
+    border: 1px solid black;
+
 }
-.services-list div i{
-    font-size: 40px;
+.testimonials div i{
+    font-size: 20px;
     margin-bottom: 10px;
 }
-.services-list div h2{
+.testimonials div h2{
     font-size: 25px;
     font-weight: 500;
     margin-bottom: 15px;
-    color: lightcoral;
+    color:  #fab042;
 }
-.services-list div p{
-    font-family: 'Lato', sans-serif;
+.overlay {
+    z-index: 9;
+    margin: 150px -200px;
+  }
+
+ .testimonials1 div{
+    background:white;
     font-size: 15px;
-}
-.services-list div a{
-    text-decoration: none;
-    color: aliceblue;
-    font-size: 13px;
-    margin-top: 20px;
-    display: inline-block;
-}
-.services-list div a:hover{
-    color:lightcoral;
-}
-.services-list div:hover{
-    background: rgb(45, 33, 40);
-    transform: translateY(-10px);
-}
-.services-list div h2:hover{
-    color: white;
-}
-
-
-
-
-
-#mywork{
-    padding: 50px 0;
-}
-h3{
-    margin-top: 30px;
-        font-size: 20px;
-}
-.worklist{
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
-    grid-gap: 40px;
-    margin-top: 50px;
-}
-.work1{
-    border-radius: 10px;
-    position: relative;
-    overflow: hidden;
-}
-.work1 img{
-    width: 400px;
-    height: 500px;
-    border-radius: 10px;
-    display: block;
-    transition: transform 0.5s;
-}
-.layer{
-    width: 100%;
-    height:0;
-    background: linear-gradient(rgba(0,0,0,0.6),#ff004f);
-    border-radius: 10px;
-    position: absolute;
-    left:0;
-    bottom: 0;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    padding: 0 40px;
-    text-align: center;
-    font-size: 18px;
-    transition: heigth 0.5s;
-}
-.layer h3{
-    font-weight: 500px;
-    margin-bottom: 20px;
-}
-.work1:hover img{
-    transform: scale(1.1);
-}
-.work1:hover .layer{
-    height: 100%;
-}
-.btn{
-    display:block;
-margin: 50px auto;
-width: fit-content;
-border: 1px solid #ff004f;
-padding: 14px 50px;
-border-radius: 6px;
-text-decoration: none;
-color: white;
-transition: background 0.5s;
-}
-.btn:hover{
-    background:#ff004f;
-}
-
-
-
-.cotactleft{
-    flex-basis: 35%;
-
-}
-.contactleft p{
-margin-top: 30px;
-
-}
-.contactleft p i{
-    color: lightcoral;
-    margin-right: 30px;
-    font-size: 15px;
-}
-.contactright{
-    flex-basis:60%;
-}
-.socialicons{
-margin-top: 30px;
-}
-.socialicons a{
-       text-decoration: none;
-       font-size: 30px;
-       margin-right: 15px;
-       color: #abaaba;
-       display: inline-block;
-       transition: transform 0.5s;
-}
-.socialicons a:hover{
-    color: lightcoral;
-    transform: translateY(-5px);
-}
-.btn.btn2{
-    display: inline-block;
-    background: lightcoral;
-}
-.btn.btn2:hover{
-    background-color: #ff004f;
-}
-.contactright form{
-    width: 100%;
-
-}
-form input,form textarea{
-    width:100%;
-border:0 ;
-outline: none;
-background:#262626;
-padding: 15px;
-margin: 15px 0;
-color: #fff;
-font-size: 18px;
-border-radius: 6px;
-}
-form .btn2{
-    padding: 14px 60px;
-    font-size: 18px;
-    margin-top: 20px;
-    cursor: pointer;
-}
-form .btn2:hover{
-    background-color: #ff004f;
-}
-.copyright{
-    width: 100%;
-    text-align: center;
-    padding: 25px 0;
-    background:#262626;
+    padding: 30px;
     font-weight: 300px;
-    margin-top: 40px;
+    width: 420px;
+    height: 210px;
+    border: 1px solid black;
 
 }
-.copyright i{
-    color: rgb(122, 5, 5);
+.testimonials1 div i{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.testimonials1 div h2{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color:  #fab144;
+}
+.overlay1 {
+    z-index: 90;
+    margin: 150px 400px;
+  }
+
+
+
+
+
+
+#footer{
+    padding: 10px ;
+    background-color:rgb(40, 38, 36);
+    color: #F6E6CF;
+    width: 100%;
+    height: 200px;
+    position: relative;
+  }
+  .one1{
+    position: absolute;
+  }
+  .text2 h2{
+    padding: 10px 20px;
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 900;
+
+  }
+  .text2 span{
+    color:#FFBD59;
+    font-family: 'Archivo Black', sans-serif;
+
+}
+.text2 p{
+    padding: 0px 20px;
+}
+.two h4{
+    padding: 10px 20px;
+    color:#FFBD59;
+    font-weight: 100;
+}
+.two p{
+    padding: 0px 20px;
+}
+.two2{
+    position: absolute;
+    padding: 20px;
+    margin-left: 320px;
+}
+.two2 h4{
+    color: #FFBD59;
+    margin-bottom: 10px;
+}
+.two2 a{
+    text-decoration: none;
+    color: #F6E6CF;
+    display: block; 
+}
+.two2 a:hover{
+    color: rgb(209, 123, 11);
+}
+.three3{
+    position: absolute;
+    padding: 20px;
+    margin-left: 600px;
+}
+.three3 h4{
+    color: #FFBD59;
+    margin-bottom: 10px;
+}
+.three3 a{
+    text-decoration: none;
+    color: #F6E6CF; 
+    padding: 7px;
+    display: block;
+}
+.three3 a:hover{
+    color: rgb(209, 123, 11);
+}
+.news{
+    position: absolute;
+    padding: 20px;
+   margin-left: 890px;
+}
+.news h4{
+    color: #FFBD59;
+}
+input{
+    width:200px;
+    height: 30px;
+    margin-top: 10px;
+    background:#535351 ;
+    color: white;
+    outline: none;
+    border: 0;
+
+}
+input::placeholder{
+color: #f0eeea;
+}
+.but1{
+    position: absolute;
+    margin-top: 66px;
+    margin-left: 1112px;
+}
+.text03 button{
+    width: 70px;
+    height:30px;
+    border-radius: 0;
+    border: 0;
+    background: #FFBD59;
+}
+.text03 button:hover{
+    border: 1px solid #e68f0c;
+    color: white;
+     background: rgb(45, 33, 4);
 }
 ```
